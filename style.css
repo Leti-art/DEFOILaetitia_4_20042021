@@ -529,6 +529,14 @@ button {
     box-shadow: none;
 }
 
+.form-group {
+    color: #000 !important;
+}
+
+#btnenvoyer {
+    color: #000 !important;
+}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
@@ -692,6 +700,7 @@ a {
 .col-sm-6 p {
     font-size: 20px;
     margin-left: 70px;
+    color: #000 !important;
 }
 
 .hero-bloc-text-sub {
