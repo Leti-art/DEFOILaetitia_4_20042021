@@ -441,6 +441,11 @@ nav .caret {
 
 #citation-text {
     font-size: 22px;
+    color: black;
+}
+
+#citation-auteur {
+    color: #000;
 }
 
 .mg-md {
@@ -664,7 +669,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
 }
 
 .container {
@@ -728,6 +732,18 @@ p {
     padding: 12px 28px 12px 28px;
     font-size: 16px;
     font-weight: 700;
+}
+
+#cta-hero {
+    color: #000 !important;
+}
+
+#btncontact {
+    color: #000 !important;
+}
+
+#titreh2 {
+    color: #000 !important;
 }
 
 .social {
